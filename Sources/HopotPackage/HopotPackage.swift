@@ -2,11 +2,9 @@
 import Cat
 import HotpotCat
 
-struct HopotPackage {
-    var text = "Hello, World!"
-}
-
 open class HotpotPackageTest {
+    public init(){}
+    
     open func test() {
         let cat = Cat()
         cat.cat()
