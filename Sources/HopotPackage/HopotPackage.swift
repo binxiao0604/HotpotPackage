@@ -2,7 +2,7 @@
 import Cat
 import HotpotCat
 
-open class HotpotPackageTest {
+open class HotpotPackage {
     public init(){}
     
     open func test() {
